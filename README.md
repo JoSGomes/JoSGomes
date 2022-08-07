@@ -1,6 +1,6 @@
 ### Salve, salve 😎
 
-- 💬 Meu nome é José Gabriel, sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana e tenho 21 anos.
+- 💬 Meu nome é José Gabriel, tenho 21 anos e sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
 - 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC)
 - 🎮 Jogo muita coisa e principalmente um RPG chamado Dofus.
