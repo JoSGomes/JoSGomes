@@ -15,7 +15,7 @@
 - ⌚ C/C#
 - 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
 
-### Pode me encontrar e conversar comigo por esses lugares 😀:
+### Pode me encontrar e conversar comigo por esses meios 😀:
 
 [![E-mail](https://img.shields.io/badge/engcgabrielgomes@gmail.com.br-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=engcgabrielgomes@gmail.com.br)
 [![Linkedin](https://img.shields.io/badge/josegabrielgomes-blue?logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-gabriel-gomes-3493b2199/)
