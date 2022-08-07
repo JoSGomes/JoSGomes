@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   <img height="180em" width="350em" src="https://github-readme-streak-stats.herokuapp.com?user=JoSGomes&theme=cobalt"> 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoSGomes/JoSGomes/blob/output/github-contribution-grid-snake.svg)
