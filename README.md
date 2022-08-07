@@ -6,10 +6,6 @@
 
 ### Você pode me encontrar facilmente na seguintes plataformas
 
-```
- <img alt="PNG" src="https://github.com/JoSGomes/JoSGomes/blob/main/assets/steam_logo.png" height="50em">
-```
-
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
 - 🐍 Python
