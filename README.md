@@ -1,5 +1,8 @@
-### Hi there 👋
+### Salve, salve 😎
 
+- 💬 Sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
+- ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
+-  
 <!--
 **JoSGomes/JoSGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
