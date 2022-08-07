@@ -1,8 +1,8 @@
 ### Salve, salve 😎
 
-- 💬 Sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
+- 💬 Sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
-- 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC) 
+- 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC)
 
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
