@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   <img height="180em" width="350em" src="https://github-readme-streak-stats.herokuapp.com?user=JoSGomes&theme=cobalt"> 
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](github-snake-dark.svg?palette=github-dark)
