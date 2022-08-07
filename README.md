@@ -6,11 +6,11 @@
 
 ## Tecnologias que estou estudando/trabalhando e que sou interessado:
 
--- 🐍 Python
--- ☕ Java
--- ➡ TypeScript
--- 🐘 PHP
--- 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
+- 🐍 Python
+- ☕ Java
+- ➡ TypeScript
+- 🐘 PHP
+- 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
 
 
 <!--
