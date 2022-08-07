@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoSGomes&show_icons=true&theme=cobalt" width="400">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoSGomes&layout=compact&theme=cobalt"> 
