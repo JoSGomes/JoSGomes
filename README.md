@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoSGomes&layout=compact&theme=cobalt"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JoSGomes&show_icons=true&theme=cobalt" width="400">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoSGomes&theme=cobalt)](https://git.io/streak-stats)
 </div>
