@@ -18,6 +18,7 @@
 ### Pode me encontrar e conversar comigo por esses lugares 😀:
 
 [![E-mail](https://img.shields.io/badge/engcgabrielgomes@gmail.com.br-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=engcgabrielgomes@gmail.combr)
+[![Linkedin](https://img.shields.io/badge/josegabrielgomes-blue?logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-gabriel-gomes-3493b2199/)
 [![Steam](https://img.shields.io/badge/-Steam-lightgrey)](https://steamcommunity.com/id/lonelytip/)
 ### 
 <!--
