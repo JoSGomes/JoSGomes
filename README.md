@@ -2,7 +2,17 @@
 
 - 💬 Sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
--  
+- 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC) 
+
+# Tecnologias que estou estudando/trabalhando e que sou interessado:
+
+## 🐍 Python
+## ☕ Java
+## ➡ TypeScript
+## 🐘 PHP
+## 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
+
+
 <!--
 **JoSGomes/JoSGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
