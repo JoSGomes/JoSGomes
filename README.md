@@ -3,12 +3,7 @@
 - 💬 Meu nome é José Gabriel, sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana e tenho 21 anos.
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
 - 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC)
-
-### Você pode me encontrar facilmente na seguintes plataformas
-<div height="50em" width="50em">
-  [![Steam](https://github.com/JoSGomes/JoSGomes/blob/main/assets/steam_logo.png)](https://steamcommunity.com/profiles/76561198117687828/)
-</div>
-
+- 
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
 - 🐍 Python
@@ -38,5 +33,3 @@ Here are some ideas to get you started:
   <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoSGomes&layout=compact&theme=cobalt"> 
   <img height="180em" width="350em" src="https://github-readme-streak-stats.herokuapp.com?user=JoSGomes&theme=cobalt"> 
 </div>
-
-![GitHub Snake dark](github-snake-dark.svg?palette=github-dark)
