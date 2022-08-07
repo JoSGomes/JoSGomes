@@ -17,7 +17,7 @@
 
 ### Pode me encontrar nos seguintes links:
 
-[![E-mail](https://img.shields.io/badge/asantos@ecomp.uefs.br-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=asantos@ecomp.uefs.br)
+[![E-mail](https://img.shields.io/badge/engcgabrielgomes@gmail.com.br-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=engcgabrielgomes@gmail.combr)
 [![Steam](https://img.shields.io/badge/-Steam-lightgrey)](https://steamcommunity.com/id/lonelytip/)
 ### 
 <!--
