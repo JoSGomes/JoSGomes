@@ -11,7 +11,7 @@
 - ➡ TypeScript
 - 🐘 PHP
 - ⌚ C/C#
-### E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
+- 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
 
 
 <!--
