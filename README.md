@@ -5,7 +5,7 @@
 - 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC)
 
 ### Você pode me encontrar facilmente na seguintes plataformas
-<img height="50em" width="50em" src="https://github.com/JoSGomes/JoSGomes/blob/main/assets/steam_logo.png" href="https://steamcommunity.com/profiles/76561198117687828/"> 
+[![Steam](https://steamcommunity.com/profiles/76561198117687828/)
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
 - 🐍 Python
