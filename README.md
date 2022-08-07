@@ -3,7 +3,9 @@
 - 💬 Meu nome é José Gabriel, sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana e tenho 21 anos.
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
 - 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC)
-- 
+- 🎮 Jogo muita coisa e principalmente um RPG chamado Dofus.
+- 📺 Vejo animes, leio alguns poucos mangás, séries e etc.
+
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
 - 🐍 Python
@@ -13,6 +15,10 @@
 - ⌚ C/C#
 - 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
 
+### Pode me encontrar nos seguintes links:
+
+[![E-mail](https://img.shields.io/badge/asantos@ecomp.uefs.br-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=asantos@ecomp.uefs.br)
+[![Steam](https://img.shields.io/badge/-Steam-lightgrey)](https://steamcommunity.com/id/lonelytip/)
 ### 
 <!--
 **JoSGomes/JoSGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
