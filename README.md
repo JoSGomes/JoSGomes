@@ -4,13 +4,13 @@
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
 - 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC) 
 
-# Tecnologias que estou estudando/trabalhando e que sou interessado:
+## Tecnologias que estou estudando/trabalhando e que sou interessado:
 
-## 🐍 Python
-## ☕ Java
-## ➡ TypeScript
-## 🐘 PHP
-## 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
+-- 🐍 Python
+-- ☕ Java
+-- ➡ TypeScript
+-- 🐘 PHP
+-- 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
 
 
 <!--
