@@ -1,9 +1,9 @@
 ### Salve, salve 😎
 
-- 💬 Sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana
+- 💬 Meu nome é José Gabriel, sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana e tenho 21 anos.
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
 - 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC)
-
+- 
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
 - 🐍 Python
@@ -13,7 +13,7 @@
 - ⌚ C/C#
 - 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender!
 
-
+### 
 <!--
 **JoSGomes/JoSGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
