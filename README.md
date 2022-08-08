@@ -1,4 +1,4 @@
-### Salve, salve 😎
+### Salve, salve. Bem vindo ao meu humilde perfil 😎
 
 - 💬 Meu nome é José Gabriel, tenho 21 anos e sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
