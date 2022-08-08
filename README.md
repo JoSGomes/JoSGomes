@@ -4,7 +4,7 @@
 - ⚡ Inteligência Arificial é atualmente a área que mais estou interessado 🎯
 - 🔬 Sou membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC)
 - 🎮 Jogo muita coisa e principalmente um RPG chamado Dofus.
-- 📺 Vejo animes, leio alguns poucos mangás, séries e etc.
+- 📺 Assisto animes, leio alguns poucos mangás, séries e etc.
 
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
