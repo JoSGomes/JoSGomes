@@ -10,6 +10,7 @@
 
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
+- 😋 Golang
 - 🐍 Python
 - ☕ Java
 - ➡ JavaScript / TypeScript
