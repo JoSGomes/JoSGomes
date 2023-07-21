@@ -26,7 +26,8 @@
 ### 
 
 <div align="center">
-  <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoSGomes&layout=compact&theme=cobalt"> 
+  <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoSGomes&layout=compact&theme=cobalt">
+  <img height="180em" width="350em" src="https://github-readme-streak-stats.herokuapp.com?user=JoSGomes&theme=cobalt">
 </div>
 
 <div align="center"> <p> <b> May the Force be with you! 😀 </b> </p> </div>
