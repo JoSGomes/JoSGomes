@@ -4,7 +4,7 @@
 - ⚡ Inteligência Artificial é atualmente a área que mais estou interessado 🎯
 - 🔬 Membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC).
 - 🧠 Fui Presidente da Liga de Inteligência Artificial do IEEE-UEFS.
-- 💼 Sou Diretor de Desenvolvimento da Ecomp Jr.
+- 💼 Fui Diretor de Desenvolvimento da Ecomp Jr.
 - 🎮 Jogo muita coisa e principalmente um RPG chamado Dofus.
 - 📺 Assisto animes, séries, leio alguns poucos mangás e etc.
 
