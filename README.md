@@ -11,7 +11,6 @@
 - ➡ JavaScript / TypeScript
 - 🐘 PHP (Laravel)
 - ⌚ C/C#
-- 📚 E o que aparecer e for interessante para mim no momento vou me esforçar para aprender 😉
 
 ### 📫 Pode me encontrar e conversar comigo por esses meios:
 
