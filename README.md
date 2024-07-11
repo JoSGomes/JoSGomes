@@ -1,12 +1,7 @@
 ### Salve, salve. Bem vindo ao meu humilde perfil 😎
 
-- 💬 Meu nome é José Gabriel, tenho 22 anos e sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
+- 💬 Meu nome é José Gabriel, tenho 23 anos e sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
 - ⚡ Inteligência Artificial é atualmente a área que mais estou interessado 🎯
-- 🔬 Membro do Laboratório de Pesquisa em Sistemas Inteligentes e Cognitivos (LASIC).
-- 🧠 Fui Presidente da Liga de Inteligência Artificial do IEEE-UEFS.
-- 💼 Fui Diretor de Desenvolvimento da Ecomp Jr.
-- 🎮 Jogo muita coisa e principalmente um RPG chamado Dofus.
-- 📺 Assisto animes, séries, leio alguns poucos mangás e etc.
 
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
