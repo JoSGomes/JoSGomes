@@ -1,7 +1,8 @@
 ### Salve, salve. Bem vindo ao meu humilde perfil 😎
 
-- 💬 Meu nome é José Gabriel, tenho 23 anos e sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana.
-- ⚡ Inteligência Artificial é atualmente a área que mais estou interessado 🎯
+- 💬 Meu nome é José Gabriel, tenho 23 anos e sou Bacharel em Engenheria de Computação pela Universidade Estadual de Feira de Santana.
+- ⚡ Inteligência Artificial e Desenvolvimento Web são atualmente as áreas que mais estou interessado 🎯
+- Tenho afinidade e experiência também com IoT
 
 ### Tecnologias que estou estudando/trabalhando, sou interessado e já estudei:
 
