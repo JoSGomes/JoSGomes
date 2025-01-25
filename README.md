@@ -1,6 +1,6 @@
 ### Salve, salve. Bem vindo ao meu humilde perfil 😎
 
-- 💬 Meu nome é José Gabriel, tenho 23 anos e sou Bacharel em Engenheria de Computação pela Universidade Estadual de Feira de Santana.
+- 💬 Meu nome é José Gabriel, tenho 24 anos e sou Bacharel em Engenheria de Computação pela Universidade Estadual de Feira de Santana.
 - ⚡ Inteligência Artificial e Desenvolvimento Web são atualmente as áreas que mais estou interessado 🎯
 - Tenho afinidade e experiência também com IoT
 
